@@ -8,6 +8,7 @@ public class Test {
 		//2. Tomcat 버전
 		//3. Encoding 방식(UTF-8)
 		//test
+		//rrrr
 		// 1. JDK 버전123456789
 		// 2. Tomcat 버전123456789
 		// 3. Encoding 방식(UTF-8)123456789
