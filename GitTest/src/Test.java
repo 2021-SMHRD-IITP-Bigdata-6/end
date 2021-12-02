@@ -14,6 +14,7 @@ public class Test {
 		// 3. Encoding 방식(UTF-8)123456789
 		System.out.println("이렇게바꾸면 바뀌는걸로 들어가는건가?");
 		System.out.println("First Code!");
+		System.out.println("UTF-8을 씁시다");
 		
 
 	}
